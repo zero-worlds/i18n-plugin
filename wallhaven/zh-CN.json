@@ -1,5 +1,6 @@
 {
     "dict": {
+        
         "a[class='latest'] span": "最新",
         "a[class='hot'] span": "热门",
         "a[class='toplist'] span": "排行榜",
@@ -10,8 +11,13 @@
         "p[class='title']": "你是新人吗?",
         "a:contains('Create a new account!')": "创建新帐户!",
         "a:contains('Log in')": "登录",
-        "div[class='startpage-bottom']>div[1]>section>h2": "最新讨论",
         "a[class='button register']": "注册",
-        "a[class='button']": "登录"
+        "a[class='button']": "登录",
+        "label:contains('General')": "常规",
+        "label:contains('Anime')": "动漫",
+        "label:contains('People')": "人物",
+        "a:contains('Resolution')": "分辨率",
+        "a:contains('Ratio')": "比例",
+        "a:contains('Color')": "颜色",
     }
 }
