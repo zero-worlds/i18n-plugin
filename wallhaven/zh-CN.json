@@ -1,6 +1,5 @@
 {
     "dict": {
-        
         "a[class='latest'] span": "最新",
         "a[class='hot'] span": "热门",
         "a[class='toplist'] span": "排行榜",
@@ -18,6 +17,6 @@
         "label:contains('People')": "人物",
         "a:contains('Resolution')": "分辨率",
         "a:contains('Ratio')": "比例",
-        "a:contains('Color')": "颜色",
+        "a:contains('Color')": "颜色"
     }
 }
