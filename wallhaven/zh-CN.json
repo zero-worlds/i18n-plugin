@@ -1,11 +1,17 @@
 {
     "dict": {
         "a[class='latest'] span": "最新",
+        "h1:contains(' Latest')": "最近的壁纸",
+        "p:contains('The latest wallpapers uploaded by our awesome community!')": "由我们社区上传的最新的壁纸!",
         "a[class='hot'] span": "热门",
         "h1:contains(' Hot Wallpapers')": "热门壁纸",
-        "p:contains('Our most popular wallpapers right now!')": "现在最流行的壁纸",
+        "p:contains('Our most popular wallpapers right now!')": "现在最流行的壁纸!",
         "a[class='toplist'] span": "排行榜",
+        "h1:contains(' Toplist')": "排行榜",
+        "p:contains('Here are the most popular walls uploaded within the last ')": "最近最受欢迎的壁纸!",
         "a[class='random'] span": "随机",
+        "h1:contains(' Random')": "随机",
+        "p:contains('Try your luck!')": "试试你的运气!",
         "a[class='upload'] span": "上传",
         "a[class='forums'] span": "论坛",
         "a[class='topmenu-toggle jsAnchor'] span": "更多",
@@ -56,6 +62,11 @@
         "label:contains('Last Month')": "最近一个月",
         "label:contains('Last 3 Months')": "最近三个月",
         "label:contains('Last 6 Months')": "最近六个月",
-        "label:contains('Last Year')": "最近一年"
+        "label:contains('Last Year')": "最近一年",
+        "a:contains('overlay-anchor link')": "搜索相似图片...",
+        "h2:contains('Tags')": "标签",
+        "h2:contains('Properties')": "属性",
+        "h2:contains('Tools')": "工具",
+        "a[class='smallbutton']": "更多这样的图片"
     }
 }
