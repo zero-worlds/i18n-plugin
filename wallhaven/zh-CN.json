@@ -38,7 +38,7 @@
         "a:contains('Resolution')": "分辨率",
         "label:contains(' At Least ')": "至少",
         "label:contains(' Exactly ')": "准确",
-        "a[class='respicker-native-info']": "当前分辨率",
+        "p:empty('Your screen resolution is ')": "当前分辨率",
         "label:contains('Custom Resolution')": "自定义分辨率",
         "a:contains('Ratio')": "比例",
         "th:contains('Wide')": "宽",
