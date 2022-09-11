@@ -1,5 +1,6 @@
 {
     "dict": {
+        "h2:contains('网上最好的壁纸!')": "最近的壁纸",
         "a[class='latest'] span": "最新",
         "h1:contains(' Latest')": "最近的壁纸",
         "p:contains('The latest wallpapers uploaded by our awesome community!')": "由我们社区上传的最新壁纸!",
@@ -27,6 +28,9 @@
         "p[class='title']": "你是新人吗?",
         "a:contains('Create a new account!')": "创建新帐户!",
         "p[id='header-search-text']": "请输入搜索内容...",
+        "h2:contains('Latest discussions on our forums')": "最新讨论内容",
+        "a:contains('Check out our forums!')": "查看论坛",
+        "h3:contains('wallhaven stats')": "wallhaven 数据!",
         "a:contains('Log in')": "登录",
         "a[class='button register']": "注册",
         "a[class='button']": "登录",
@@ -38,7 +42,6 @@
         "a:contains('Resolution')": "分辨率",
         "label:contains(' At Least ')": "至少",
         "label:contains(' Exactly ')": "准确",
-        "p:empty('Your screen resolution is ')": "当前分辨率",
         "label:contains('Custom Resolution')": "自定义分辨率",
         "a:contains('Ratio')": "比例",
         "th:contains('Wide')": "宽",
