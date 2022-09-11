@@ -1,6 +1,6 @@
 {
     "dict": {
-        "a[class='latest'] span": "<a href='www.baidu.com'>最新</a>",
+        "a[class='latest'] span": "最新",
         "a[class='hot'] span": "热门",
         "a[class='toplist'] span": "排行榜",
         "a[class='random'] span": "随机",
