@@ -1,6 +1,6 @@
 {
     "dict": {
-        "h2:contains('网上最好的壁纸!')": "最近的壁纸",
+        "h2:contains('The best wallpapers on the Net!')": "网络上最好的壁纸!!!",
         "a[class='latest'] span": "最新",
         "h1:contains(' Latest')": "最近的壁纸",
         "p:contains('The latest wallpapers uploaded by our awesome community!')": "由我们社区上传的最新壁纸!",
