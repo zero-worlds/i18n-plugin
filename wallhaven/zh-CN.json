@@ -14,6 +14,7 @@
         "p:contains('Try your luck!')": "试试你的运气!",
         "a[class='upload'] span": "上传",
         "a[class='forums'] span": "论坛",
+        "a:contains('More tags...')": "更多标签...",
         "a[class='topmenu-toggle jsAnchor'] span": "更多",
         "span:contains('Few tags')": "增加标签",
         "span:contains('Tags')": "标签",
@@ -65,8 +66,19 @@
         "label:contains('Last Year')": "最近一年",
         "a:contains('overlay-anchor link')": "搜索相似图片...",
         "h2:contains('Tags')": "标签",
+        "a[class='smallbutton']": "更多这样的图片",
         "h2:contains('Properties')": "属性",
+        "dt:contains('Uploader')": "上传者",
+        "dt:contains('Category')": "分类",
+        "dd:contains('Anime')": "动漫",
+        "dt:contains('Purity')": "分级",
+        "span[class='purity sfw']": "G",
+        "span[class='purity sketchy']": "R18+",
+        "dt:contains('Size')": "大小",
+        "dt:contains('Views')": "视图",
+        "dt:contains('Favorites')": "喜欢",
         "h2:contains('Tools')": "工具",
-        "a[class='smallbutton']": "更多这样的图片"
+        "a[class='jsAnchor showcase-fullscreen-toggle']": "全屏",
+        "a[class='jsAnchor showcase-crop']": "按尺寸下载"
     }
 }
