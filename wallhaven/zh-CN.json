@@ -1,5 +1,6 @@
 {
-  "dict": {
-    
-  }
+    "dict": {
+        "span:contains('Latest')": "最新",
+        "span:contains('Hot')": "热门"
+    }
 }
