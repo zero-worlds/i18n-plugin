@@ -10,7 +10,7 @@
         "p[class='title']": "你是新人吗?",
         "a:contains('Create a new account!')": "创建新帐户!",
         "a:contains('Log in')": "登录",
-        "div[class='startpage-bottom'] div[1] section h2": "最新讨论",
+        "div[class='startpage-bottom']>div[0]>section>h2": "最新讨论",
         "a[class='button register']": "注册",
         "a[class='button']": "登录"
     }
