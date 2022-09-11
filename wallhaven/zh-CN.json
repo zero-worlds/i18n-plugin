@@ -6,11 +6,11 @@
         "a[class='random'] span": "随机",
         "a[class='upload'] span": "上传",
         "a[class='forums'] span": "论坛",
-        "a[class='more'] span": "更多",
+        "a[class='topmenu-toggle jsAnchor'] span": "更多",
         "p[class='title']": "你是新人吗?",
         "a:contains('Create a new account!')": "创建新帐户!",
-        "div[id='featured'] p[2]": " - 或者 - ",
         "a:contains('Log in')": "登录",
+        "div[class='startpage-bottom'] div[0] section h2": "最新讨论",
         "a[class='button register']": "注册",
         "a[class='button']": "登录"
     }
