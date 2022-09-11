@@ -1,11 +1,17 @@
 {
     "dict": {
         "a[class='latest'] span": "最新",
-        "span:contains('Hot')": "热门",
-        "span:contains('Toplist')": "排行榜",
-        "span:contains('Random')": "随机",
-        "span:contains('Upload')": "上传",
-        "span:contains('Forums')": "论坛",
-        "span:contains('More')": "更多"
+        "a[class='Hot'] span": "热门",
+        "a[class='Toplist'] span": "排行榜",
+        "a[class='Random'] span": "随机",
+        "a[class='Upload'] span": "上传",
+        "a[class='Forums'] span": "论坛",
+        "a[class='More'] span": "更多",
+        "//p[@class='title']": "你是新人吗?",
+        "//a[normalize-space()='Create a new account!']": "创建新帐户!",
+        "//div[@id='featured']//p[2]": " - 或者 - ",
+        "//a[normalize-space()='Log in']": "登录",
+        "//a[@class='button register']": "注册",
+        "//a[@class='button']": "登录"
     }
 }
