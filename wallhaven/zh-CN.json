@@ -18,6 +18,12 @@
         "a:contains('Resolution')": "分辨率",
         "a:contains('Ratio')": "比例",
         "a:contains('Color')": "颜色",
-        "a:contains('Color')": "颜色"
+        "label:contains('Relevance')": "关联",
+        "label:contains('Random')": "随机",
+        "label:contains('Date Added')": "加入日期",
+        "label:contains('Views')": "视图",
+        "label:contains('Favorites')": "收藏夹",
+        "label:contains('Toplist')": "排行榜",
+        "label:contains('Hot')": "热门"
     }
 }
