@@ -17,6 +17,7 @@
         "label:contains('People')": "人物",
         "a:contains('Resolution')": "分辨率",
         "a:contains('Ratio')": "比例",
+        "a:contains('Color')": "颜色",
         "a:contains('Color')": "颜色"
     }
 }
