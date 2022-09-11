@@ -1,6 +1,6 @@
 {
     "dict": {
-        "span:contains('Latest')": "最新",
+        "a[class='latest'] span": "最新",
         "span:contains('Hot')": "热门",
         "span:contains('Toplist')": "排行榜",
         "span:contains('Random')": "随机",
