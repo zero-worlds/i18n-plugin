@@ -7,7 +7,7 @@
         "mRandom": "随机",
         "mUpload": "上传",
         "mForums": "论坛",
-        "mMore": "",
+        "mMore": "更多",
         "mMoreTags": "更多标签...",
         "mNewHere": "新人吗?",
         "mRegister": "注册",
@@ -25,7 +25,9 @@
         "About": "关于",
         "FAQ": "FAQ",
         "Stats": "统计数据",
-        "Team": "团队"
+        "Team": "团队",
+        "hot_title": "热门壁纸",
+        "hot_subtitle": "现在最流行的壁纸！"
     },
     "isAttribute": {
         "mainSearch": "输入内容进行搜索..."
