@@ -19,5 +19,24 @@
     },
     "isAttribute": {
         "mainSearch": "输入内容进行搜索..."
+    },
+    "isReplace": {
+        "mStatsText1": {
+            "wallhaven.cc is home to": "wallhaven.cc 拥有",
+            "high quality wallpapers which have been viewed a total of": "张高质量的壁纸，这些壁纸的浏览次数已达",
+            "billion": "亿",
+            "times!": "次!"
+        },
+        "mStatsText2": {
+            "We have": "我们拥有",
+            "awesome users, of whom": "位用户,其中",
+            "are online right now!": "在线!"
+        },
+        "mStatsText3": {
+            "Not sure what to search for? We're sure at least one of our": "不确定要搜索什么？我们确信,在",
+            "user created": "位用户创建的",
+            "tags": "标签",
+            "will help you find something!": "中，至少有一个可以帮助您找到一些东西！"
+        }
     }
 }
