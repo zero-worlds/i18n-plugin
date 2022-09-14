@@ -19,7 +19,7 @@
     },
     "isAttribute": {
         "mainSearch": {
-            "att": "text",
+            "att": "placeholder",
             "css": "#search-text"
         },
         "": {
