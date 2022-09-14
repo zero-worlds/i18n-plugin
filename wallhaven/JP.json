@@ -2,10 +2,12 @@
     "is": {
         "mSubtitle": "网络上最好的壁纸",
         "mLatest": "最新",
+        "mHot": "热门",
         "mToplist": "排行榜",
         "mRandom": "随机",
         "mUpload": "上传",
         "mForums": "论坛",
+        "mMore": "",
         "mMoreTags": "更多标签...",
         "mNewHere": "新人吗?",
         "mRegister": "注册",
@@ -13,9 +15,17 @@
         "mLatestMsg": "论坛最新讨论",
         "mLatestMsgButton": "查看更多",
         "mStats": "wallhaven 统计数据",
-        "mCopyright": "图片著作权属于作者所有.",
-        "mPrivacyPolicy": "隐私政策",
-        "mTermsOfService": "服务条款"
+        "allCopyright": "图片著作权属于作者所有.",
+        "allPrivacyPolicy": "隐私政策",
+        "allTermsOfService": "服务条款",
+        "FewTags": "添加标签",
+        "Tags": "标签",
+        "Rules": "规则",
+        "Help": "帮助",
+        "About": "关于",
+        "FAQ": "FAQ",
+        "Stats": "统计数据",
+        "Team": "团队"
     },
     "isAttribute": {
         "mainSearch": "输入内容进行搜索..."
