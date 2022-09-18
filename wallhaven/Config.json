@@ -1,47 +1,66 @@
 {
     "is": {
-        "mSubtitle": ".slogan",
-        "mLatest": "a[class='latest'] span",
-        "mHot": "a[class='hot'] span",
-        "mToplist": "a[class='toplist'] span",
-        "mRandom": "a[class='random'] span",
-        "mUpload": "a[class='upload'] span",
-        "mForums": "a[class='forums'] span",
-        "mMoreTags": "a[href='https://wallhaven.cc/tags/popular']",
-        "mNewHere": ".title",
-        "mRegister": "body > main:nth-child(1) > div:nth-child(3) > div:nth-child(3) > p:nth-child(2) > a:nth-child(1)",
-        "mLogIn": "body > main:nth-child(1) > div:nth-child(3) > div:nth-child(3) > p:nth-child(2) > a:nth-child(2)",
-        "mLatestMsg": "section[class='forum-threads-box forum-box'] h2",
-        "mLatestMsgButton": ".green.button",
-        "mStats": "body > main:nth-child(1) > div:nth-child(4) > div:nth-child(2) > h3:nth-child(1)",
-        "mMore": "a[class='topmenu-toggle jsAnchor'] span",
-        "FewTags": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1) > span:nth-child(2)",
-        "Tags": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1) > span:nth-child(2)",
-        "Rules": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(3) > a:nth-child(1) > span:nth-child(2)",
-        "Help": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(4) > a:nth-child(1) > span:nth-child(2)",
-        "About": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(5) > a:nth-child(1) > span:nth-child(2)",
-        "FAQ": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(6) > a:nth-child(1) > span:nth-child(2)",
-        "Stats": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(7) > a:nth-child(1) > span:nth-child(2)",
-        "Team": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(8) > a:nth-child(1) > span:nth-child(2)",
-        "hot_subtitle": "header[class='listing-header'] p",
-        "allCopyright": "a[href='https://wallhaven.cc/about#Copyright']",
-        "allPrivacyPolicy": "a[href='https://wallhaven.cc/privacy-policy']",
-        "allTermsOfService": "a[href='https://wallhaven.cc/terms']"
+        "Main_N_Subtitle": ".slogan",
+        "Main_N_Latest": "a[class='latest'] span",
+        "Main_N_Hot": "a[class='hot'] span",
+        "Main_N_Toplist": "a[class='toplist'] span",
+        "Main_N_Random": "a[class='random'] span",
+        "Main_N_Upload": "a[class='upload'] span",
+        "Main_N_Forums": "a[class='forums'] span",
+        "Main_N_More": "a[class='topmenu-toggle jsAnchor'] span",
+        "Main_N_FewTags": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1) > span:nth-child(2)",
+        "Main_N_Tags": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1) > span:nth-child(2)",
+        "Main_N_Rules": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(3) > a:nth-child(1) > span:nth-child(2)",
+        "Main_N_Help": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(4) > a:nth-child(1) > span:nth-child(2)",
+        "Main_N_About": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(5) > a:nth-child(1) > span:nth-child(2)",
+        "Main_N_FAQ": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(6) > a:nth-child(1) > span:nth-child(2)",
+        "Main_N_Stats": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(7) > a:nth-child(1) > span:nth-child(2)",
+        "Main_N_Team": "body > header:nth-child(1) > div:nth-child(2) > nav:nth-child(2) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(8) > a:nth-child(1) > span:nth-child(2)",
+        "Main_T_MoreTags": "a[href='https://wallhaven.cc/tags/popular']",
+        "Main_T_NewHere": ".title",
+        "Main_T_Register": "body > main:nth-child(1) > div:nth-child(3) > div:nth-child(3) > p:nth-child(2) > a:nth-child(1)",
+        "Main_T_LogIn": "body > main:nth-child(1) > div:nth-child(3) > div:nth-child(3) > p:nth-child(2) > a:nth-child(2)",
+        "Main_T_LatestMsg": "section[class='forum-threads-box forum-box'] h2",
+        "Main_T_LatestMsgButton": ".green.button",
+        "Main_T_Stats": "body > main:nth-child(1) > div:nth-child(4) > div:nth-child(2) > h3:nth-child(1)",
+        "Latrst_TS": "p:contains('The latest wallpapers uploaded by our awesome community!')",
+        "Hot_TS": "p:contains('Our most popular wallpapers right now!')",
+        "Toplist_TS": "p:contains('Here are the most popular walls uploaded within the last ')",
+        "Random_TS": "p:contains('Try your luck!')",
+        "Search_TS": "p:contains('Find more search options above!')",
+        "C_T_Register": ".button.register",
+        "C_T_Login": "a[class='button']",
+        "C_T_General": "label[for='search-general']",
+        "C_B_Anime": "label[for='search-anime']",
+        "C_B_People": "label[for='search-people']",
+        "C_B_SFW": "label[for='search-sfw']",
+        "C_B_Sketchy": "label[for='search-sketchy']",
+        "C_B_Resolution": "div[id='search-resolutions'] a[class='jsAnchor dropdown-toggle collapsed']",
+        "C_B_Ratio": "div[id='search-ratios'] a[class='jsAnchor dropdown-toggle collapsed']",
+        "C_B_Color": "div[id='search-colors'] a[class='jsAnchor dropdown-toggle collapsed']",
+        "C_B_Sorting": "div[id='search-sorting'] a[class='jsAnchor dropdown-toggle collapsed']",
+        "C_T_Copyright": "a[href='https://wallhaven.cc/about#Copyright']",
+        "C_T_PrivacyPolicy": "a[href='https://wallhaven.cc/privacy-policy']",
+        "C_T_TermsOfService": "a[href='https://wallhaven.cc/terms']"
     },
     "isAttribute": {
-        "mainSearch": {
+        "Main_Search": {
             "att": "placeholder",
             "css": "#search-text"
         },
-        "": {
-            "att": "",
-            "css": ""
+        "C_Search": {
+            "att": "placeholder",
+            "css": "#header-search-text"
         }
     },
     "isReplace": {
         "mStatsText1": "body > main:nth-child(1) > div:nth-child(4) > div:nth-child(2) > p:nth-child(2)",
         "mStatsText2": "body > main:nth-child(1) > div:nth-child(4) > div:nth-child(2) > p:nth-child(3)",
         "mStatsText3": "body > main:nth-child(1) > div:nth-child(4) > div:nth-child(2) > p:nth-child(4)",
-        "hot_title": "header[class='listing-header'] h1"
+        "Latest_TT": "h1:contains(' Latest')",
+        "Hot_TT": "h1:contains(' Hot Wallpapers')",
+        "Toplist_TT": "h1:contains(' Toplist')",
+        "Random_TT": "h1:contains(' Random')",
+        "Search_TT": "h1:contains('Wallpapers found ')"
     }
 }
