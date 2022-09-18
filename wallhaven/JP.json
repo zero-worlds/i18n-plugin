@@ -55,3 +55,80 @@
         }
     }
 }
+
+
+
+{
+    "is": {
+        "Main_N_Subtitle": "网络上最好的壁纸",
+        "Main_N_Latest": "最新",
+        "Main_N_Hot": "热门",
+        "Main_N_Toplist": "排行榜",
+        "Main_N_Random": "随机",
+        "Main_N_Upload": "上传",
+        "Main_N_Forums": "论坛",
+        "Main_N_More": "更多",
+        "Main_N_FewTags": "添加标签",
+        "Main_N_Tags": "更多标签",
+        "Main_N_Rules": "规则",
+        "Main_N_Help": "帮助",
+        "Main_N_About": "关于",
+        "Main_N_FAQ": "FAQ",
+        "Main_N_Stats": "统计数据",
+        "Main_N_Team": "团队",
+        "Main_T_MoreTags": "更多标签...",
+        "Main_T_NewHere": "新人吗?",
+        "Main_T_Register": "注册",
+        "Main_T_LogIn": "登录",
+        "Main_T_LatestMsg": "论坛最新讨论",
+        "Main_T_LatestMsgButton": "查看更多",
+        "Main_T_Stats": "wallhaven 统计数据",
+        "Latrst_TS": "p:contains('由我们社区上传的最新壁纸!')",
+        "Hot_TS": "p:contains('现在最流行的壁纸!')",
+        "Toplist_TS": "p:contains('最近最受欢迎的壁纸!')",
+        "Random_TS": "p:contains('试试运气!')",
+        "Search_TS": "p:contains('在上面找到更多搜索选项!')",
+        "C_T_Register": "注册",
+        "C_T_Login": "登录",
+        "C_T_General": "常规",
+        "C_B_Anime": "动漫",
+        "C_B_People": "人物",
+        "C_B_SFW": "G",
+        "C_B_Sketchy": "R18",
+        "C_B_Resolution": "分辨率",
+        "C_B_Ratio": "比例",
+        "C_B_Color": "颜色",
+        "C_B_Sorting": "分类",
+        "C_T_Copyright": "图片著作权属于作者所有.",
+        "C_T_PrivacyPolicy": "隐私政策",
+        "C_T_TermsOfService": "服务条款"
+    },
+    "isAttribute": {
+        "Main_Search": "输入内容进行搜索...",
+        "C_Search": "输入内容进行搜索..."
+    },
+    "isReplace": {
+        "mStatsText1": {
+            "wallhaven.cc is home to": "wallhaven.cc 拥有",
+            "high quality wallpapers which have been viewed a total of": "张高质量的壁纸，这些壁纸的浏览次数已达",
+            "billion": "亿",
+            "times!": "次!"
+        },
+        "mStatsText2": {
+            "We have": "我们拥有",
+            "awesome users, of whom": "位用户,其中",
+            "are online right now!": "在线!"
+        },
+        "mStatsText3": {
+            "Not sure what to search for? We're sure at least one of our": "不确定要搜索什么？我们确信,在",
+            "user created": "位用户创建的",
+            "tags": "标签",
+            "will help you find something!": "中，至少有一个可以帮助您找到一些东西！"
+        },
+        "Latest_TT": "最新",
+        "Hot_TT": "热门",
+        "Toplist_TT": "排行榜",
+        "Random_TT": "随机",
+        "Search_TT": "搜索"
+    }
+}
