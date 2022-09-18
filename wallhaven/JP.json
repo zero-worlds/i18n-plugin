@@ -21,7 +21,7 @@
         "Main_T_Register": "注册",
         "Main_T_LogIn": "登录",
         "Main_T_LatestMsg": "论坛最新讨论",
-        "Main_T_LatestMsgButton": "查看更多",
+        "Main_B_LatestMsgButton": "查看更多",
         "Main_T_Stats": "wallhaven 统计数据",
         "Latrst_TS": "由我们社区上传的最新壁纸!",
         "Hot_TS": "现在最流行的壁纸!",
@@ -34,7 +34,12 @@
         "Img_T_Info": "属性",
         "Img_T_Info_Uploader": "上传者",
         "Img_T_Info_Category": "分类",
+        "Img_T_Info_Category_general": "常规",
+        "Img_T_Info_Category_anime": "动漫",
+        "Img_T_Info_Category_people": "人物",
         "Img_T_Info_Purity": "分级",
+        "Img_T_Info_Purity_sfw": "G",
+        "Img_T_Info_Purity_sketchy": "R18",
         "Img_T_Info_Size": "大小",
         "Img_T_Info_Views": "视图",
         "Img_T_Info_Favorites": "喜欢",
@@ -62,6 +67,10 @@
         "C_B_Ratio_AllWide": "所有宽度",
         "C_B_Ratio_AllPortrait": "所有纵向",
         "C_B_Color": "颜色",
+        "C_T_Sorting_date": "添加日期",
+        "C_T_Sorting_hot": "热门",
+        "C_T_Sorting_toplist": "排行榜",
+        "C_T_Sorting_random": "随机",
         "C_B_Sorting_relevance": "关联",
         "C_B_Sorting_random": "随机",
         "C_B_Sorting_date": "添加日期",
@@ -69,6 +78,7 @@
         "C_B_Sorting_favorites": "收藏夹",
         "C_B_Sorting_toplist": "排行榜",
         "C_B_Sorting_hot": "热门",
+        "C_T_Extended": "最近一月",
         "C_B_Extended_1d": "最近一天",
         "C_B_Extended_3d": "最近三天",
         "C_B_Extended_1w": "最近一周",
@@ -120,7 +130,7 @@
             "Wallpapers found  for": "找到的壁纸 "
         },
         "C_T_Resolution_Screen": {
-            "": "当前屏幕分辨率"
+            "Your screen resolution is ": "当前屏幕分辨率"
         }
     }
 }
