@@ -1,5 +1,5 @@
 {
-    "is": {
+    "Text": {
         "Main_N_Subtitle": "网络上最好的壁纸",
         "Main_N_Latest": "最新",
         "Main_N_Hot": "热门",
@@ -90,13 +90,13 @@
         "C_T_PrivacyPolicy": "隐私政策",
         "C_T_TermsOfService": "服务条款"
     },
-    "isAttribute": {
+    "Attribute": {
         "Main_Search": "输入内容进行搜索...",
         "C_Search": "输入内容进行搜索...",
         "C_I_Resolution_Width": "宽",
         "C_I_Resolution_Height": "高"
     },
-    "isReplace": {
+    "Replace": {
         "mStatsText1": {
             "wallhaven.cc is home to": "wallhaven.cc 拥有",
             "high quality wallpapers which have been viewed a total of": "张高质量的壁纸，这些壁纸的浏览次数已达",
