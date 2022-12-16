@@ -1,5 +1,6 @@
 {
-	"LANG_VALUE": "LANG",
-	"DEBUG_VALUE": "DEBUG",
+	"FIRST_Key": "FIRST",
+	"LANG_Key": "LANG",
+	"DEBUG_Key": "DEBUG",
 	"DEBUG": false
 }
