@@ -1,6 +1,11 @@
 {
-	"FIRST_Key": "FIRST",
-	"LANG_Key": "LANG",
-	"DEBUG_Key": "DEBUG",
-	"DEBUG": false
+	"FIRST_KEY": "FIRST",
+	"LANG_KEY": "LANG",
+	"DEBUG_KEY": "DEBUG",
+	"DEBUG": false,
+	"I18N": {
+		"ZH-CN":"a.com",
+		"JP":"b.com"
+	}
 }
+
