@@ -3,9 +3,6 @@
 	"LANG_KEY": "LANG",
 	"DEBUG_KEY": "DEBUG",
 	"DEBUG": false,
-	"I18N": {
-		"ZH-CN":"a.com",
-		"JP":"b.com"
-	}
+	"I18N": ["ZH-CN","JP"]
 }
 
