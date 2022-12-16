@@ -1,0 +1,15 @@
+{
+	"DOM": {
+		"Home.Slogan": ".slogan",
+		"Home.Label.Latest": "a[class='latest'] span",
+		"Home.Label.Hot  Main_N_Hot": "a[class='hot'] span",
+		"Home.Label.Toplist  Main_N_Toplist": "a[class='toplist'] span",
+		"Home.Label.Random  Main_N_Random": "a[class='random'] span",
+		"Home.Label.Upload  Main_N_Upload": "a[class='upload'] span",
+		"Home.Label.Forums Main_N_Forums": "a[class='forums'] span"
+	},
+	"RE": {
+	},
+	"ATTRIB": {
+	}
+}
